@@ -1,0 +1,7 @@
+
+rakam = int(input("write the amount : "))
+intrest = int(input("intrest rate : "))
+time = int(input ("time (in years)"))
+
+print(f"your simple intrest rate over {time} years is : ", (rakam*intrest*time)/100)
+print("your total amount is :", (rakam*intrest*time)/100 + rakam)
