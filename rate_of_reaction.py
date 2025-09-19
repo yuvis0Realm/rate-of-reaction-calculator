@@ -20,12 +20,3 @@ for t in range (5,35,5):
     print(f"(b-x) for {t} minutes is :{D}")
     print(f"log b(a-x)/a(b-x) for {t} minutes is :{l}")
     print(f"'K' for {t} minutes is :{k}")
-
-
-
-
-    
-
-
-
-    
